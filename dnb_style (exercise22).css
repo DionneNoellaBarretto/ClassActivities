@@ -1,0 +1,46 @@
+*{
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    font-size: 20px;
+
+}
+h1 {
+    position: absolute;
+    top: 95px;
+    color: blue;
+}
+
+nav{
+    background-color: rgb(144, 219, 238);
+    display: inline-block;
+    position: fixed;
+}
+
+p{
+    position:absolute;
+    top: 750px;
+    font-style: italic;
+    background-color: lemonchiffon
+}
+
+caption{
+    font-style: cursive; 
+}
+
+#contact{
+    position:absolute;
+    top: 625px;
+font-style: oblique;
+color: rgb(83, 70, 170);
+}
+
+header, h1, figure{
+    align-items: center;
+}
+
+#image{
+    position:absolute;
+    top: 150px;
+    margin: 6 auto;
+
+}
